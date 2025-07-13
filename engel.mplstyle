@@ -1,0 +1,50 @@
+# Figure.
+figure.constrained_layout.use: True
+figure.constrained_layout.w_pad: 0.0278
+figure.constrained_layout.h_pad: 0.0278
+figure.facecolor: none
+
+# Saving
+savefig.dpi: 72
+savefig.transparent: True
+savefig.pad_inches: 0.0278
+savefig.format: pdf
+pdf.fonttype: 42
+
+# Font styles.
+font.family: sans-serif
+font.sans-serif: Helvetica
+mathtext.fontset: cm
+
+# Font sizes.
+font.size: 7
+figure.titlesize: 7
+axes.titlesize: 7
+axes.labelsize: 7
+xtick.labelsize: 7
+ytick.labelsize: 7
+legend.fontsize: 7
+legend.title_fontsize: 7
+
+legend.frameon: False
+
+# X-axis.
+xtick.direction: out
+xtick.major.size: 2
+xtick.major.width: 0.5
+xtick.major.pad: 1
+xtick.minor.visible: False
+
+#Y-axis
+ytick.direction: out
+ytick.major.size: 2
+ytick.major.width: 0.5
+ytick.major.pad: 1
+ytick.minor.visible: False
+
+#Axes
+axes.spines.right: False
+axes.spines.top: False
+axes.xmargin: 0
+axes.ymargin: 0
+axes.facecolor: none
